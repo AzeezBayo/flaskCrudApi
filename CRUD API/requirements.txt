@@ -1,0 +1,7 @@
+#Dependencies
+
+Python3 
+Flask
+Pip
+Flask-SQLAlchemy
+Gunicorn
